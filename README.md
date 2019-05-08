@@ -1,4 +1,4 @@
-# Prediciting WinningTeam EPL
+# Prediciting Winning Team EPL
 
 Predicting the Winning Team for Football Matches using a Deep Neural Network Classifier
 
