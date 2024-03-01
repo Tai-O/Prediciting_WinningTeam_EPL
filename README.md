@@ -1,6 +1,6 @@
 # Prediciting Winning Team EPL
 
-Predicting the Winning Team for Football Matches using a Deep Neural Network Classifier.
+Predicting the Winning Team for Football Matches using a Deep Neural Network.
 
 # Overview
 The project involves predicting the outcome of a football game: Home Win, Away Win or Draw given a set of statistics. 
